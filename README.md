@@ -1,1 +1,1 @@
-# COMP-A1-Week-1
+# COMP3A-Week-1
